@@ -241,32 +241,32 @@
 }
 
 .main1 a {
-    background: url("../images/main1.png") no-repeat center top;
+    background: url("../images/main_banner_img01.png") no-repeat center top;
     background-size: cover;
 }
 
 .main2 a {
-    background: url("../images/main2.jpg") no-repeat center top;
+    background: url("../images/main_banner_img02.png") no-repeat center top;
     background-size: cover;
 }
 
 .main3 a {
-    background: url("../images/main3.jpg") no-repeat center top;
+    background: url("../images/main_banner_img03.jpg") no-repeat center top;
     background-size: cover;
 }
 
 .main4 a {
-    background: url("../images/main4.jpg") no-repeat center top;
+    background: url("../images/main_banner_img04.jpg") no-repeat center top;
     background-size: cover;
 }
 
 .main5 a {
-    background: url("../images/main5.jpg") no-repeat center top;
+    background: url("../images/main_banner_img05.jpg") no-repeat center top;
     background-size: cover;
 }
 
 .main6 a {
-    background: url("../images/main6.jpg") no-repeat center top;
+    background: url("../images/main_banner_img06.jpg") no-repeat center top;
     background-size: cover;
 }
 
